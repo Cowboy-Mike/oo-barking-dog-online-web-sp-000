@@ -1,5 +1,6 @@
 # Your code goes here!
 class dog
   
-  def 
+  def name=dogs_namee
+    
 end
